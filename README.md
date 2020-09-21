@@ -1,2 +1,3 @@
-# yanchengyuan-paul.github.io
+# Yancheng Yuan (Paul)
+
 Personal Webpage
