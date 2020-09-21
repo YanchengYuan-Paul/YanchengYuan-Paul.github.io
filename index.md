@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Yancheng Yuan (Paul)
+
+### Education
+
+**Ph.D in Mathematics (Optimization)**
 
 You can use the [editor on GitHub](https://github.com/YanchengYuan-Paul/yanchengyuan-paul.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
